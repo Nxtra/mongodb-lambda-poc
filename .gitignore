@@ -1,0 +1,18 @@
+
+# IntelliJ
+.idea/*
+
+# Node
+node_modules
+
+# Terraform
+.terraform
+terraform.tfstate
+terraform.tfstate.backup
+terraform.tfvars
+
+# Application
+archive.zip
+result.json
+
+.DS_Store
